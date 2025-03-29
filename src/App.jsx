@@ -49,7 +49,6 @@ function App() {
   );
 }
 
-// App content with theme context
 const AppContent = () => {
   const { themeStyles } = useTheme();
 
