@@ -8,12 +8,17 @@ This is a **simple weather app** that uses **React, Tailwind CSS, and OpenWeathe
  **Dark mode**   
  **Search history** (No forgetting allowed!)   
 
+## view Live at : https://weatherappbyharshbhasin.netlify.app
+
 ## Tech Stack  
 - **React.js**
 - **Tailwind CSS**
 - **OpenWeatherMap API**
-- 
-## view livw at : https://weatherappbyharshbhasin.netlify.app
+
+
+**Api Details**
+Source: OpenWeatherMap
+Rate : 60 calls/min
 
 ## How to Set Up?  
 1. **Clone this repo:**  
@@ -21,7 +26,7 @@ This is a **simple weather app** that uses **React, Tailwind CSS, and OpenWeathe
    git clone https://github.com/Harsh5784/weatherapp.git
    cd weatherapp
 
-2. ## Install dependencies:
+2. **Install dependencies:**
 
 ```sh
   Copy
@@ -29,8 +34,6 @@ This is a **simple weather app** that uses **React, Tailwind CSS, and OpenWeathe
   npm install
   npm run dev
 
-## API Details
-Source: OpenWeatherMap
-Rate : 60 calls/min
+
 
 
